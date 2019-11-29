@@ -1,0 +1,154 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+	display: flex;
+	background-color: grey;
+	height: 100px;
+	color: white;
+	align-items: flex-end;
+	/*flex-direction: row-reverse;*/
+	font-size: 30px;
+	justify-content: space-between;
+
+}
+
+.fresh{
+	font-size: 60px;
+	color: red;
+	font-style: italic;
+	padding-left: 20px;
+}
+
+.hello{
+	width: 400px;
+}
+
+.dad{
+	display: flex;
+	justify-content: space-around;
+}
+
+.happy{
+	display: flex;
+	list-style-type: none;
+}
+
+.happy:hover{
+	color: black;
+	background: white;
+}
+
+.midu{
+	display: flex;
+	width: auto;
+	margin:2px;
+	height: 400px;
+	background-image: url(cisa.png);
+	color: white;
+	justify-content: flex-end;
+	
+}
+
+.main{
+	background:grey;
+	width: 250px;
+	border-radius: 30px 40px ;
+	border-top-left-radius: 0px;
+}
+
+.cra{
+	font-size: 30px;
+	/*background-image: url(cisa.jpg);*/
+	margin-left: 6px;
+}
+
+.questions{
+	background:orange;
+	flex-grow: 1;
+	margin: 20px;
+	margin-left: 2px;
+	margin-right: 2px;
+	/*display: flex;*/
+}
+
+
+
+.name{
+	margin: 10px;
+	width:200px;
+	border-radius: 20px 40px;
+	padding: 5px;
+	
+}
+.name:hover{
+	background: silver;
+}
+
+.aname{
+	margin: 10px;
+	width:200px;
+	border-radius: 20px 40px;
+	padding: 5px;
+}
+.aname:hover{
+	background: silver;
+}
+
+.ep{
+	margin: 10px;
+	width:200px;
+	border-radius: 20px 40px;
+	padding: 5px;
+}
+.ep:hover{
+	background: silver;
+}
+
+.m{
+	margin: 20px;
+}
+
+.f{
+	margin: 20px;
+}
+
+.c{
+	margin-left: 20px;
+	border-radius: 50px 10px;
+	width: 200px;
+	/*background-image:url(browny.jpeg);  */
+}
+
+.tongo{
+	font-size: 30px;
+
+}
+
+.LN{
+	background:purple;
+	flex-grow: 10;
+	width:250px; 
+	flex-wrap: row;
+
+}
+
+
+.futa{
+	display: flex;
+	width: auto;
+	height: 150px;
+	background:pink;
+}
+
+.wer{
+	display: flex;
+	padding: 30px;
+}
+
+.flex{
+	display: flex;
+}
+
